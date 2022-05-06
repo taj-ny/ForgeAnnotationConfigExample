@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "forgeannotationconfigexample",
+    "name": "ForgeAnnotationConfigExample",
+    "description": "An example mod showcasing the ForgeAnnotationConfig library.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://github.com/taj-ny/ForgeAnnotationConfigExample",
+    "updateUrl": "",
+    "authorList": [
+      "Taj_ny"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
